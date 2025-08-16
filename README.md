@@ -8,7 +8,7 @@
 
 ### What I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,angular,react&perline=2)](https://skillicons.dev)
 
 ### Contacts:
 
