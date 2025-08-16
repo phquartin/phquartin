@@ -3,12 +3,12 @@
 
 ### Tools and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,idea,postman,mysql,java,spring,docker&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,idea,postman,mysql,java,spring,docker,redis&perline=3)](https://skillicons.dev)
           
 
 ### What I'm learning
 
-[![My Skills](https://skillicons.dev/icons?i=linux,aws,angular,react&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,aws,angular,react&perline=3)](https://skillicons.dev)
 
 ### Contacts:
 
